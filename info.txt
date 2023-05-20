@@ -1,0 +1,2 @@
+https://kaitai.io/#quick-start
+https://doc.kaitai.io/lang_python.html
